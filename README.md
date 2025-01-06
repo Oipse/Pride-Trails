@@ -10,3 +10,5 @@ maybe in future i will add more trails but the size of the image is pretty limit
 
 # How to import the trails to GD
 you need to have geode and in it more icons mod installed. then go to your icon page and in there click on the more icons logo in the left. then click on "folder" and go to the "trails" folder. then copy every single file that you downloaded from here (main page -> code -> local > download zip) and paste it into the "trails" folder. then restart your game and it should hopefully work :D
+
+kon kon 
